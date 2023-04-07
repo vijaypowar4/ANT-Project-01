@@ -1,2 +1,2 @@
-# ANT-Project-01
-Simple Web App
+# SampleWebApp
+A Sample Web Application with Snoop Servlet for Tomcat, Weblogic, Jboss, Websphere
